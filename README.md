@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+ <img width="60" height="60" src="https://user-images.githubusercontent.com/29875175/213811460-169e023c-ab5a-479f-bafd-69bd803a879e.png" />
 
-<!--
-**Gautam2010/Gautam2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <p>Hi, I'm Gautam, Fullstack developer from Gujarat, India.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <br>
+  <br>
+</div>
+
