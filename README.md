@@ -11,6 +11,8 @@
 
   ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam2010&show_icons=true)
 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=gautam2010)
+
   <br>
   <br>
 </div>
