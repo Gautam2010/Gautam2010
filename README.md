@@ -9,7 +9,8 @@
 
   <p>Hi, I'm Gautam, Fullstack developer from Gujarat, India.</p>
 
-  
+  [![](https://visitcount.itsvg.in/api?id=Gautam2010&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
   <br>
   <br>
 </div>
