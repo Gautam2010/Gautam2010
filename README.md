@@ -9,7 +9,7 @@
 
   <p>Hi, I'm Gautam, Fullstack developer from Gujarat, India.</p>
 
-  [![](https://visitcount.itsvg.in/api?id=Gautam2010&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam2010&show_icons=true)
 
   <br>
   <br>
