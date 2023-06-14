@@ -15,9 +15,6 @@
 </div>
 <div>
   
- ## 📊 GitHub Stats
- ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam2010&show_icons=true)
-
   ## 🏆 GitHub Trophies
   ![trophy](https://github-profile-trophy.vercel.app/?username=gautam2010)
 </div>
