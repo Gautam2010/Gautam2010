@@ -15,7 +15,3 @@
 </div>
 <div>
   
-  ## 🏆 GitHub Trophies
-  ![trophy](https://github-profile-trophy.vercel.app/?username=gautam2010)
-</div>
-
